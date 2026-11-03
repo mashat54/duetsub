@@ -15,11 +15,11 @@
   },
   "devDependencies": {
     "@types/chrome": "^0.2.2",
-    "@xmldom/xmldom": "^0.9.10",
+    "@xmldom/xmldom": "^0.9.12",
     "fake-indexeddb": "^6.2.5",
     "typescript": "^7.0.2",
-    "vitest": "^4.1.10",
-    "wxt": "^0.20.27"
+    "vitest": "^5.1.0",
+    "wxt": "^0.21.5"
   },
   "dependencies": {
     "opencc-js": "^1.4.1"
